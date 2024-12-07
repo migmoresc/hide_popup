@@ -3,7 +3,7 @@ This is an extension for chrome web browser that helps people when they see some
 
 ## Boring of this?
 ![Selling your info 1](1.jpg)
-<img src="1.jpg" width="300" />
+<img src="1.jpg" width="400" />
 ![Selling your info 2](2.jpg)
 ![Selling your info 3](3.jpg)
 
