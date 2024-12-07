@@ -2,9 +2,9 @@
 This is an extension for chrome web browser that helps people when they see some web pages.
 
 ## Boring of this?
-![Selling your info 1](images/1.png)
-![Selling your info 2](images/2.png)
-![Selling your info 3](images/3.png)
+![Selling your info 1](1.jpg)
+![Selling your info 2](2.jpg)
+![Selling your info 3](3.jpg)
 
 ## Why is this extension useful?
 Are you tired of seeing that before you could read some content in a website they ask you to accept their cookies (so all data they collect from you is sold to **a lot of companies**) or pay for the service and they don't collect your data? With this extension you can hide that popup and continue on that website.
