@@ -3,7 +3,7 @@ This is an extension for chrome web browser that helps people when they see some
 
 ## Boring of this?
 <img src="1.jpg" width="500" alt="Selling your info 1"/>
-<img src="2.jpg" width="500" alt="Selling your info 2"/>
+<img src="2.jpg" width="800" alt="Selling your info 2"/>
 <img src="3.jpg" width="500" alt="Selling your info 3"/>
 
 ## Why is this extension useful?
