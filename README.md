@@ -18,8 +18,10 @@ Are you tired of seeing that before you could read some content in a website the
 ## How to use it?
 When you are in a website and you see the popup and it doesn't hide in a few seconds, then this version of the extension can't still hide the popup. You can click on the extension icon and press the **report** button. The next time the extension is updated it should work for that website.
 Also you can deactivate or activate the extension for that website.
-- ![report button](i1.jpg)
-- ![deactivate](i2.jpg)
+
+![report button](i1.jpg)
+
+![deactivate](i2.jpg)
 
 ---
 
@@ -38,5 +40,7 @@ Esta es una extensión para el navegador web Chrome que ayuda a las personas cua
 ## ¿Cómo se usa?
 Si estás en un sitio web y ves la ventana emergente y no se oculta en unos segundos, significa que la extensión no puede ocultar el popup con esta versión de extensión. Puedes hacer clic en el icono de la extensión y presionar el botón **reportar** si está activado y de color azul. Si está gris es que la extensión ya funciona para esa web. La próxima vez que se actualice la extensión, debería funcionar para ese sitio web.
 También puedes desactivar o activar la extensión para ese sitio web.
+
 <img src="e1.jpg" width="500" alt="Reportar"/>
+
 <img src="e2.jpg" width="500" alt="Desactivar"/>
