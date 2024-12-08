@@ -1,7 +1,9 @@
-<a name="english">English</a>
-<a name="español">Español</a>
+[English](#english)
+[Español](#español)
 
-# Hide Popup[A](#english)
+
+<a name="english"></a>
+# Hide Popup
 This is an extension for chrome web browser that helps people when they see some web pages.
 
 ## Boring of this?
@@ -18,6 +20,8 @@ Also you can deactivate or activate the extension for that website.
 ![report button](images/i1.png)
 ![deactivate](images/i2.png)
 
+
+<a name="español"></a>
 # Oculta Popup
 Esta es una extensión para el navegador web Chrome que ayuda a las personas cuando ven algunas páginas web.
 
