@@ -1,4 +1,7 @@
-# Hide Popup
+<a name="english">English</a>
+<a name="español">Español</a>
+
+# Hide Popup[A](#english)
 This is an extension for chrome web browser that helps people when they see some web pages.
 
 ## Boring of this?
