@@ -1,6 +1,7 @@
 [English](#english)
 [Español](#español)
 
+---
 
 <a name="english"></a>
 # Hide Popup
@@ -20,6 +21,7 @@ Also you can deactivate or activate the extension for that website.
 ![report button](images/i1.png)
 ![deactivate](images/i2.png)
 
+---
 
 <a name="español"></a>
 # Oculta Popup
