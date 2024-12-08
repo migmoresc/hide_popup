@@ -18,8 +18,8 @@ Are you tired of seeing that before you could read some content in a website the
 ## How to use it?
 When you are in a website and you see the popup and it doesn't hide in a few seconds, then this version of the extension can't still hide the popup. You can click on the extension icon and press the **report** button. The next time the extension is updated it should work for that website.
 Also you can deactivate or activate the extension for that website.
-![report button](i1.jpg)
-![deactivate](i2.jpg)
+- ![report button](i1.jpg)
+- ![deactivate](i2.jpg)
 
 ---
 
